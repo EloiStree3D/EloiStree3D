@@ -7,6 +7,7 @@ My name is Éloi Strée.
   
 I am mainly of developer Unity3D with a "hobbyjob" in new-tech and virutal reality.   
 > Find my codes here: https://github.com/EloiStree/  
+  
 But my second hobby due to my lifetime project, OMI, is 3D printer (PLA & CNC).     
 
  
