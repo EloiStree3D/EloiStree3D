@@ -17,3 +17,13 @@ Find me on discord if you need to talk or help:
 
   
 May the code be with you.
+
+
+
+-------------------
+
+My instagram is only used for CNC and 3D Print:
+https://www.instagram.com/eloistree
+
+Find all my ready to be download models here:
+https://cults3d.com/en/users/EloiStree/
