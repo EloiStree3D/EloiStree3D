@@ -1,10 +1,15 @@
 ### Hi there 👋
   
+  [![EloiInHisWorld](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)]([https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png](https://github.com/EloiStree/))
+  
 My name is Éloi Strée.  
+
   
-I am maintly of developer Unity3D with a hobbyjob direction of new-tech an virutal reality.  
-My second hobby is 3D printer (PLA & CNC).  
-  
+I am mainly of developer Unity3D with a "hobbyjob" in new-tech and virutal reality.   
+> Find my codes here: https://github.com/EloiStree/  
+But my second hobby due to my lifetime project, OMI, is 3D printer (PLA & CNC).     
+
+ 
 As I don't want to mix my code and my 3D in repository I created this secondary account.  
 Enjoy my 3D models and workshop on the topic.  
 
