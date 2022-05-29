@@ -18,7 +18,7 @@ All my works are under beerware license.
 Send a beer: https://ko-fi.com/eloistree ||  https:paypal.me/eloistree  
 
 Find me on discord if you need to talk or help:  
-💬 eloistree.page.link/discord  
+💬 https://eloistree.page.link/discord  
 
   
 May the code be with you.
