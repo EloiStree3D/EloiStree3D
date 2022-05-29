@@ -11,12 +11,17 @@ I am mainly of developer Unity3D with a "hobbyjob" in new-tech and virutal reali
 But my second hobby due to my lifetime project, OMI, is 3D printer (PLA & CNC).     
 
  
-As I don't want to mix my code and my 3D in repository I created this secondary account.  
+As I don't want to mix my code and my 3D projects, I created this secondary account.  
 Enjoy my 3D models and workshop on the topic.  
 
 All my works are under beerware license.  
 > 'Send me beer or a coffee by donation if you like or use frequently what I created'  
 Send a beer: https://ko-fi.com/eloistree ||  https:paypal.me/eloistree  
+
+> Model are Free, under beerware license, if you download them from GitHub.
+> And at cost, and store license, if you buy them on a specific store. 
+
+
 
 Find me on discord if you need to talk or help:  
 💬 https://eloistree.page.link/discord  
