@@ -1,16 +1,19 @@
 ### Hi there 👋
+  
+My name is Éloi Strée.  
+  
+I am maintly of developer Unity3D with a hobbyjob direction of new-tech an virutal reality.  
+My second hobby is 3D printer (PLA & CNC).  
+  
+As I don't want to mix my code and my 3D in repository I created this secondary account.  
+Enjoy my 3D models and workshop on the topic.  
 
-<!--
-**EloiStree3D/EloiStree3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All my works are under beerware license.  
+> 'Send me beer or a coffee by donation if you like or use frequently what I created'  
+Send a beer: https://ko-fi.com/eloistree ||  https:paypal.me/eloistree  
 
-Here are some ideas to get you started:
+Find me on discord if you need to talk or help:  
+💬 eloistree.page.link/discord  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+May the code be with you.
