@@ -7,3 +7,6 @@ All my works are under beerware license.
 >    
 >    Model are Free, under beerware license, if you download them from GitHub.
 >    Asset on store are at the cost and license condition of the store and is there to allow you to buy it instead of doing donation.
+
+More information on me and the projects here:  
+https://github.com/EloiStree3D  
