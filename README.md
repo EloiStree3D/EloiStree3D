@@ -16,7 +16,7 @@ Enjoy my 3D models and workshop on the topic.
 
 All my works are under beerware license.  
 > 'Send me beer or a coffee by donation if you like or use frequently what I created'  
-Send a beer: https://ko-fi.com/eloistree ||  https:paypal.me/eloistree  
+Send a beer: [https://ko-fi.com/eloistree](https://en.tipeee.com/eloistree) ||  https://paypal.me/eloistree  
 
 > Model are Free, under beerware license, if you download them from GitHub.  
 > And at cost, and store license, if you buy them on a specific store.   
