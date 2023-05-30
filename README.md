@@ -53,5 +53,6 @@ https://cults3d.com/en/users/EloiStree/
 
 All my projects Fusion 360 2020-2023:
 [![](https://user-images.githubusercontent.com/106495897/241815918-ad9dba06-56ee-451d-80bc-2bf86464a73f.png)](https://github.com/EloiStree3D/Fusion360Links)
+[![ezgif-2-de7cf79fc8](https://github.com/EloiStree3D/Fusion360Links/assets/106495897/6db788f0-8e01-4743-a793-6150bc8f4920)](https://github.com/EloiStree3D/Fusion360Links)
 https://github.com/EloiStree3D/Fusion360Links
 
