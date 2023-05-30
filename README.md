@@ -48,3 +48,10 @@ https://www.instagram.com/eloistree
 
 Find all my ready to be download models here:
 https://cults3d.com/en/users/EloiStree/
+
+
+
+All my projects Fusion 360 2020-2023:
+[![](https://user-images.githubusercontent.com/106495897/241815918-ad9dba06-56ee-451d-80bc-2bf86464a73f.png)](https://github.com/EloiStree3D/Fusion360Links)
+https://github.com/EloiStree3D/Fusion360Links
+
